@@ -63,5 +63,6 @@ My primary interests lie in **Cloud Architecture, DevOps practices, Infrastructu
 
 LinkedIn:  
 https://www.linkedin.com/in/azimsarwad
+
 Email:
 sarwadazim786@gmail.com
