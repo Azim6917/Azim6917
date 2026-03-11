@@ -1,70 +1,89 @@
-# Hi, I'm Azim 👋
+<h1 align="center">Hi 👋, I'm Azim Sarwad</h1>
+<h3 align="center">Cloud & DevOps Enthusiast | Full Stack Developer</h3>
 
-☁️ Cloud & DevOps Enthusiast  
-🎓 MCA (AI & ML) Student  
-📍 Pune, India  
-
-AWS Certified Cloud Practitioner passionate about building scalable cloud infrastructure and modern applications. I enjoy working with cloud technologies, Linux systems, and automation tools to create reliable and efficient solutions.
-
-My primary interests lie in **Cloud Architecture, DevOps practices, Infrastructure as Code, and scalable application deployment.**
+<p align="center">
+Passionate about building scalable applications and automating infrastructure using modern DevOps and cloud technologies.
+</p>
 
 ---
 
-# ☁️ Cloud & DevOps Skills
+## 🚀 About Me
 
-- AWS (EC2, S3, IAM, VPC)
-- CloudFormation
-- CloudWatch
-- Linux
-- Shell Scripting
-- Networking
-- Git & GitHub
-- Cloud Infrastructure Fundamentals
+- 🎓 BCA Student passionate about **Cloud & DevOps**
+- ☁️ Currently learning **AWS, Docker, Kubernetes & CI/CD**
+- 💻 Full Stack Developer experienced with **MERN Stack**
+- 🛠 Interested in **Infrastructure Automation & Cloud Architecture**
+- 📫 Reach me at: **azimsarwad@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/azimsarwad
 
 ---
 
-# 💻 Programming
+## 🧰 Tech Stack
 
+### 👨‍💻 Programming
+- JavaScript
 - Python
-- SQL
+- Bash
 
----
-
-# 🌐 Web Development
-
-- HTML5
-- CSS3
-- Node.js
+### 🌐 Web Development
 - React.js
+- Node.js
 - Express.js
 - MongoDB
+- HTML5
+- CSS3
+
+### ⚙️ DevOps & Cloud
+- AWS
+- Docker
+- Kubernetes
+- GitHub Actions
+- Linux
+- CI/CD Pipelines
+
+### 🛠 Tools
+- Git & GitHub
+- VS Code
+- Postman
+- Linux CLI
 
 ---
 
-# 📜 Certifications
+## 📌 Projects
 
-- AWS Certified Cloud Practitioner (CLF-C02)
-- AWS re/Start Graduate
-- Full Stack Developer – upGrad Campus
+### 🚗 GearUp
+Automotive e-commerce platform built using **MERN stack** that allows users to browse, search and purchase automotive products.
 
----
-
-# 📚 Currently Learning
-
-- DevOps
-- MCA (AI & ML)
-- Infrastructure as Code
-- Cloud Architecture
-- Scalable System Design
+**Tech:** MongoDB, Express, React, Node.js
 
 ---
 
-# 📫 Connect With Me
+### ✍️ Scribbler
+A blogging platform where users can **create, publish and manage blogs**.
 
-LinkedIn:  
+**Tech:** MERN Stack
 
-https://www.linkedin.com/in/azimsarwad
+---
 
-Email:
+## 📊 GitHub Stats
 
-sarwadazim786@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=azimsarwad&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azimsarwad&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/azimsarwad" target="blank">LinkedIn</a> |
+<a href="mailto:azimsarwad@gmail.com">Email</a>
+</p>
+
+---
+
+⭐️ From [Azim Sarwad](https://github.com/azimsarwad)
