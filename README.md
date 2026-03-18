@@ -1,5 +1,9 @@
 # Hi, I'm Azim 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Linux+Enthusiast;Learning+Infrastructure+and+Automation;Building+Projects+and+Exploring+AWS" />
+</p>
+
 ☁️ Cloud & DevOps Enthusiast  
 🎓 MCA (AI & ML) Student  
 📍 Pune, India  
