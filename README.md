@@ -58,6 +58,10 @@ My primary interests lie in **Cloud Architecture, DevOps practices, Infrastructu
 - Scalable System Design
 
 ---
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azim6917&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 # 📫 Connect With Me
 
