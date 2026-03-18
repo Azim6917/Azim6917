@@ -1,12 +1,9 @@
-#                                                                                    Hi, I'm Azim 👋
+<h1 align="center">Hi 👋, I'm Azim Sarwad</h1>
+<h3 align="center">Aspiring DevOps Engineer | MCA (AI & ML) | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Linux+Enthusiast;Learning+Infrastructure+and+Automation;Building+Projects+and+Exploring+AWS;Certified+AWS+Cloud+Practitioner" />
 </p>
-
-☁️ Cloud & DevOps Enthusiast  
-🎓 MCA (AI & ML) Student  
-📍 Pune, India  
 
 AWS Certified Cloud Practitioner passionate about building scalable cloud infrastructure and modern applications. I enjoy working with cloud technologies, Linux systems, and automation tools to create reliable and efficient solutions.
 
