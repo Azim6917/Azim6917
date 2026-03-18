@@ -5,9 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+%7C+Linux+Enthusiast;Learning+Infrastructure+and+Automation;Building+Projects+and+Exploring+AWS;Certified+AWS+Cloud+Practitioner" />
 </p>
 
-AWS Certified Cloud Practitioner passionate about building scalable cloud infrastructure and modern applications. I enjoy working with cloud technologies, Linux systems, and automation tools to create reliable and efficient solutions.
+## 🚀 About Me
 
-My primary interests lie in **Cloud Architecture, DevOps practices, Infrastructure as Code, and scalable application deployment.**
+* 🎓 MCA Student specializing in **Artificial Intelligence & Machine Learning**
+* 🏅 **AWS Certified cloud Practitioner**.
+* ☁️ Learning **AWS Cloud Infrastructure**
+* 🐧 Working with **Linux systems and networking**
+* 🔧 Practicing **DevOps tools and automation**
+* 💡 Interested in **building scalable and reliable systems**
 
 ---
 
