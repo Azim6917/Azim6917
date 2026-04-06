@@ -74,6 +74,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azim6917&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
+---
+📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azim6917&theme=tokyo-night"/>
+</p>
+
+---
 # 📫 Connect With Me
 
 LinkedIn:  
