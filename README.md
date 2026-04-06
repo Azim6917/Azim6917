@@ -16,7 +16,7 @@
 
 ---
 
-# ☁️ Cloud & DevOps Skills
+## ☁️ Cloud & DevOps Skills
 
 - AWS (EC2, S3, IAM, VPC)
 - CloudFormation
@@ -29,14 +29,14 @@
 
 ---
 
-# 💻 Programming
+## 💻 Programming
 
 - Python
 - SQL
 
 ---
 
-# 🌐 Web Development
+## 🌐 Web Development
 
 - HTML5
 - CSS3
@@ -47,7 +47,7 @@
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS re/Start Graduate
@@ -55,7 +55,7 @@
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - DevOps
 - MCA (AI & ML)
@@ -64,7 +64,7 @@
 - Scalable System Design
 
 ---
-# 📊GitHub Stats
+## 📊GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azim6917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -75,13 +75,13 @@
 </div>
 
 ---
-# 📈 Activity Graph
+## 📈 Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azim6917&theme=tokyo-night"/>
 </p>
 
 ---
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 LinkedIn:  
 
